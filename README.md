@@ -8,6 +8,8 @@ I also use Valet to be able to call TLD .test.
 
 But this is just a personal preference.
 
+There is no synced folder or nothing. Just a dockerized Wordpress webiste on your local system.
+
 `mkdir ~/Sites/test_projects/docker_projects/wordpressdocker/es`
 
 `touch README.md`

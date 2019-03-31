@@ -1,4 +1,4 @@
-#Even Simple WordPress Docker installation
+# Even Simpler WordPress Docker Installation
 
 This is where I keekp this project. Your destination might be different.
 

@@ -22,7 +22,7 @@ Insert the contents of the docker-compose.yml file from this repo and save.
 
 Open browser:
 
-http://es/test:8787
+http://es.test:8787
 
 or
 
